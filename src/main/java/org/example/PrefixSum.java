@@ -30,7 +30,7 @@ public class PrefixSum {
     }
 
     public static void main(String[] args){
-        List<Integer> a= Arrays.asList(2,3,4,5);
+        List<Integer> a= Arrays.asList(2,3,4,5,7,9);
         System.out.println(productArray(a));
     }
 
